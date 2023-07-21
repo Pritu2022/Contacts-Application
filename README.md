@@ -2,19 +2,19 @@
 
 ## Tech Stack:
 
-# Backend:
+### Backend:
 
 * Java
 * Spring Framework (including Spring Boot, Spring Data JPA)
 * MySQL (as the database)
 * Spring Validation (for input validation)
     
-# Frontend:
+### Frontend:
 * Thymeleaf (for server-side HTML rendering)
 * HTML, CSS (for frontend styling)
 
   
-## Features:
+#### Features:
 
 * Create Contact: Users can input the first name, last name, email, and multiple phone numbers for a new contact.
 * Search Contacts: Users can search for contacts by name or phone number.
